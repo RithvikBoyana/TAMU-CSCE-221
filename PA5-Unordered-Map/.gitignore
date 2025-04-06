@@ -5,3 +5,5 @@ build
 ta_config
 
 .vscode/**
+
+.DS_Store
