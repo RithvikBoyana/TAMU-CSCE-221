@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     'build/push_move_and_efficient'
-relocations:     []
-...
