@@ -2,7 +2,7 @@
 
 This repository contains my implementations of fundamental data structures and algorithms assignments from Texas A&M University's CSCE 221 course during the Spring 2025 semester.
 
-NOTE: This repository is meant to showcase my work and its sole purpose is to demonstrate my skills and knowledge gained from this course. PLEASE REFRAIN FROM PLAGIARIZING/COPYING MY CODE FOR PERSONAL USE. Doing so will result in an honor violation at Texas A&M (refer to the Aggie Honor Code) and at almost any other institution or organization.
+**NOTE:** This repository is meant to showcase my work and its sole purpose is to demonstrate my skills and knowledge gained from this course. **PLEASE REFRAIN FROM PLAGIARIZING/COPYING MY CODE.** Doing so will result in an honor violation at Texas A&M (refer to the Aggie Honor Code) and at almost any other institution or organization.
 
 ## Assignments
 
