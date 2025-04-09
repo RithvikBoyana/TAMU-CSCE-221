@@ -42,7 +42,6 @@ This repository contains my implementations of fundamental data structures and a
   - Upheap and downheap operations for maintaining heap properties
   - Support for both min-heap and max-heap configurations using custom comparators
   - Priority queue operations such as push, pop, top, empty, and size
-- Includes comprehensive test suite for heap operations and priority queue functionality
 
 ## Project Structure
 Each assignment is contained in its own directory with the following structure:
