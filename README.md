@@ -36,12 +36,20 @@ This repository contains my implementations of fundamental data structures and a
   - Iterator support (both global and bucket/local)
   - Various map operations (insert, erase, find)
 
+### PA6 - Priority Queue and Binary Heaps
+- Implementation of a binary min-heap and max-heap data structure
+- Features include:
+  - Upheap and downheap operations for maintaining heap properties
+  - Support for both min-heap and max-heap configurations using custom comparators
+  - Priority queue operations such as push, pop, top, empty, and size
+- Includes comprehensive test suite for heap operations and priority queue functionality
+
 ## Project Structure
 Each assignment is contained in its own directory with the following structure:
 - `src/` - Source code files
 - `tests/` - Test files and testing framework
 - `README.md` - Documentation and guidelines to follow for each specific assignment
-- `REPORT.md` - Implementation details and analysis
+- `REPORT.md` - Implementation details and analysis. Used for lab reports in previous semesters
 
 ## Building and Testing
 Each assignment includes its own Makefile for building and running tests. Refer to individual assignment READMEs for specific build instructions.
