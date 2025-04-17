@@ -43,6 +43,14 @@ This repository contains my implementations of fundamental data structures and a
   - Support for both min-heap and max-heap configurations using custom comparators
   - Priority queue operations such as push, pop, top, empty, and size
 
+### PA7 - Graph Algorithms
+- Implementation of fundamental graph algorithms:
+  - Dijkstra's Algorithm for shortest path finding
+  - Topological Sort for directed acyclic graphs (DAGs)
+- Graph representation using adjacency lists
+- Implementations using Priority Queues (with Binary Heaps)
+- Support for weighted and unweighted graphs
+
 ## Project Structure
 Each assignment is contained in its own directory with the following structure:
 - `src/` - Source code files
